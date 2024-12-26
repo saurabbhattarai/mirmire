@@ -9,7 +9,7 @@ return (
                 </span>
             </div>
             <a
-                href="/files/mirmire_book.pdf"
+                href="/mirmire_book.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-lg text-blue-500 no-underline border border-blue-500 px-6 mt-1 py-2 rounded-2xl"
@@ -35,7 +35,7 @@ return (
                 </span>
             </div>
             <a
-                href="/files/mirmire_itenary.pdf"
+                href="/mirmire_itenary.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-lg text-blue-500 no-underline border border-blue-500 px-6 mt-1 py-2 rounded-2xl"
@@ -61,7 +61,7 @@ return (
                 </span>
             </div>
             <a
-                href="/files/sahakari_values.pdf"
+                href="/sahakari_values.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-lg text-blue-500 no-underline border border-blue-500 px-6 mt-1 py-2 rounded-2xl"
