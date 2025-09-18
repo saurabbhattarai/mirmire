@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "मिर्मिरे ऊर्जा विकास सहकारी संस्था",
-  description: "मिर्मिरे ऊर्जा विकास सहकारी संस्था",
+  title: "Ratan Pandey",
+  description: "Ratan Pandey",
 };
 
 export default function RootLayout({ children }) {
